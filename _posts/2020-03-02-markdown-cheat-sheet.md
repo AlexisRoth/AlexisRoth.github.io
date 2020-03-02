@@ -3,23 +3,24 @@ layout: post
 title: Markdown cheat sheet
 categories: technical
 ---
+Principales balises markdown à connaître pour la mise en page de base. 
 
-# h1
-## h2
-### h3
-#### h4
-##### h5
-###### h6
+# h1 : `#`
+## h2 : `##`
+### h3 : `###`
+#### h4 : `####`
+##### h5 : `#####` 
+###### h6 : `######`
 
-## You can add emojis like this : :rocket:
+## You can add emojis like this : :rocket: (les emojis ne semblent pas fonctionner avec jekyll, mais sur GitHub ça fonctionne)
 https://emoji-cheat-sheet.com 
 
 ## Text formatting
-*This text will be in italic* 
-_Another way to be in italic_
-**This text will be bold** 
-__Another way to be bold__
-*You **can** combine them*
+*This text will be in italic*  
+_Another way to be in italic_  
+**This text will be bold**  
+__Another way to be bold__  
+*You **can** combine them*  
 
 ## Quoting text 
 Famous quote from **CommitStrip**
@@ -88,7 +89,7 @@ class FirstApp {
 - [x] completed 
 - [ ] todo
 
-## Tables
+## Tables (to fix) 
 
 First header | Second header 
 ------------ | -------------

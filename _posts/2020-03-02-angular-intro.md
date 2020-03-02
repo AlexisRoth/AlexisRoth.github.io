@@ -3,6 +3,9 @@ layout: "post"
 title:  "Angular"  
 categories: "front"  
 ---
+## Introduction 
+
+Actuellement en train de monter en compétence sur la technologie Angular, j'en profite pour compiler les information qui me semblent intéressantes sur ce framework. Pour ce qui est du ressenti en lui même, je le trouve vraiment pratique et bien documenté, ce qui est primordial pour travailler dans de bonnes conditions.  
 
 ## Informations générales 
 * Version actuelle : `Angular 9`

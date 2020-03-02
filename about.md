@@ -1,15 +1,7 @@
 ---
 layout: page
-title: About
+title: A propos
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Alex, développeur Java junior. Je vais me servir de ce blog pour poster des billets sur les technos et outils qui retiennent mon attention. Je n'exclue pas de le faire évoluer par la suite. 

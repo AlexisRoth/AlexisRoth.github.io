@@ -59,3 +59,28 @@ Actuellement en train de monter en compétence sur la technologie Angular, j'en 
  ┣ 📜package.json  
  ┗ 📜README.md  
 
+## Commandes importantes
+
+### Créer un projet Angular 
+
+`ng new project-name`
+
+### Déploiement local du projet Angular
+
+`ng serve --open` ou `ng serve -o`
+
+### Créer un composant 
+`ng generate component component-name`
+
+### Ajouter la lib Angular Material 
+`ng add @angular/material`
+
+### Ajout de dépendence
+`ng add _______`
+
+### Deployer et tester
+`ng test`
+
+### Déployer en production
+`ng build --prod`
+

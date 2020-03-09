@@ -12,7 +12,7 @@ Principales balises markdown à connaître pour la mise en page de base.
 ##### h5 : `#####` 
 ###### h6 : `######`
 
-## You can add emojis like this : :rocket: (les emojis ne semblent pas fonctionner avec jekyll, mais sur GitHub ça fonctionne)
+## You can add emojis like this : :rocket:
 https://emoji-cheat-sheet.com 
 
 ## Text formatting

@@ -43,7 +43,7 @@ Famous quote from **CommitStrip**
     * Item 3b
 
 ## Images
-![Image test](/images/img_readme.png)
+![Image test](/images/jekyll-logo.png)
 
 ## Links
 * First way : just paste the link 

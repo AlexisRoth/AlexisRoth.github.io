@@ -61,6 +61,10 @@ Actuellement en train de monter en compétence sur la technologie Angular, j'en 
 
 ## Commandes importantes
 
+### Installer Angular 
+
+`npm install -g @angular/cli`
+
 ### Créer un projet Angular 
 
 `ng new project-name`

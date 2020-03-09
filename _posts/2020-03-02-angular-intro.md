@@ -73,6 +73,10 @@ Actuellement en train de monter en compétence sur la technologie Angular, j'en 
 
 `ng serve --open` ou `ng serve -o`
 
+### Ignorer la différence de version Angular entre le CLI et l'appli en cours de dev 
+
+`ng config -g cli.warnings.versionMismatch false`
+
 ### Créer un composant 
 `ng generate component component-name`
 

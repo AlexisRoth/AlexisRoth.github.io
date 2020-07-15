@@ -1,5 +1,3 @@
-# Git Cheat Sheet
-
 ## Commandes importantes 
 ### Créer et cloner un repo 
 Créer un repo  

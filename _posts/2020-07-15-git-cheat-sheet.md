@@ -1,4 +1,8 @@
-# Git Cheat Sheet
+--- 
+layout: "post"
+title: "Git Cheat Sheet"
+categories: "versionning"
+---
 
 ## Commandes importantes 
 ### Créer et cloner un repo 
